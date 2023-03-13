@@ -144,6 +144,11 @@ button{
         height: auto;
         
     }
+    .text-container{
+     
+        padding: 32px;
+        
+    }
 
     .image-container{
         width: 100%;
